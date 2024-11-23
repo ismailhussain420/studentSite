@@ -1,0 +1,8 @@
+Events
+
+1.  clipboard events
+2.  focus events
+3.  keyboard events
+4.  mouse event
+5.  omchange
+6.  onsubmit

@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-size:14px;
+    line-height:24px;
+    font-family: 'Poppins', sans-serif;
+
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Montserrat', sans-serif;}
+a,a:hover{
+    text-decoration: none;
+}
+
+/* profile start */
+.profile{
+    width:100%;  
+    margin: 45px auto;
+}
+.profile .profileSec{
+    width:100%
+}
+.profile .profileSec .profileImage{
+    background:url("../images/275442513_100686035916373_8204616030685084703_n.jpg"),center top no-repeat;
+    background-size:cover;
+    height:400px;
+    position:relative;
+    border-radius: 10px;
+    box-shadow: -1px 4px 21px 1px #cfcfcf;
+}
+.profile .profileSec .profileImage img{
+    width:150px;
+    border-radius: 100%;
+    position:absolute;
+    top: 58%;  
+    left: 31px;
+}
+.profile .profileSec .profileDtls {
+    width:100%;
+    margin: 20px 0px 0px 0px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: -1px 4px 21px 1px #cfcfcf;
+
+
+}
+.profile .profileSec .profileDtls h6{
+    font-size: 22px;
+    font-weight: 700;
+
+}
+.profile .profileSec .profileDtls p{
+    font-size: 16px;
+    
+}
+
+.profile .profileSec .profileDtls p i{
+    margin-right: 13px;
+}
+.dark-mode{
+    background:black;
+    color:#fff;
+}

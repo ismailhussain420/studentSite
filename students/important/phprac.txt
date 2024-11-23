@@ -1,0 +1,15 @@
+1. build a clothes recomandation system
+2. Customer relationship management for isp
+3. predict movie sucess through data minig 
+4. fake review identification
+5. data minig implementation for secure learning
+6. detect net banking phising
+7. predict user behaviour
+8. a chatbot for student
+9. portal for doctors
+10. product rating system accordig to customer reviews
+11. college admission prediction system
+12. social network system for job placement 
+13. review minig for resturants
+14. automate time table creation
+15. cupon code for store sites.
